@@ -830,7 +830,9 @@ margin-bottom: 72px;
         .footer-icon-link:focus{
             background-color: #31d0aa;
 }
-
+        .footer-block-social{
+            margin-bottom: 72px;
+        }
 
 
 
